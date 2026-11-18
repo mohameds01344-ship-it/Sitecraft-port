@@ -21,23 +21,19 @@ const CONFIG = {
 
 const PROJECTS = [
 
-    {
-        name: "SMASH-WICH",
+     {
+        name: "MARKETING PORTFOLIO",
 
-        category: "Restaurant Website",
+        category: "MARKETING PORTFOLIO",
 
-        description: "Restaurant website · Brand experience",
+        description: "MARKETING PORTFOLIO",
 
-        image: "images/smash.jpg",
+        image: "images/k.png",
 
-        link: "https://mohameds01344-ship-it.github.io/smash-Wich/",
-
-        label: "SMASH WICH",
-
-        headline: "THE ART OF<br><span>fast food.</span>",
-
-        footer: "MADE FRESH. SERVED BOLD."
+        link: "https://mohameds01344-ship-it.github.io/kp2/"
+    
     },
+
 
     {
         name: "RIVO Store",

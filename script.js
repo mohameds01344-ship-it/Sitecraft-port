@@ -30,7 +30,7 @@ const PROJECTS = [
 
         image: "images/k.png",
 
-        link: "https://mohameds01344-ship-it.github.io/kp2/"
+        link: "https://karen-ashraf.pages.dev/"
     
     },
 
@@ -54,19 +54,14 @@ const PROJECTS = [
     },
 
     {
-        name: "ابو عمار السوري",
+        name: "Restaurant",
 
-        category: "شاورما سوري",
-         description:"شاورما ومشويات وفتة وطواجن وبروست ومكرونة وحلويات بطعم شامي أصيل.",
+        category: "temple",
+         description:"Good Food.Great Moments.",
 
+        image: "images/tem.png",
 
-        
-
-
-
-        image: "images/abo.jpg",
-
-        link: "https://mohameds01344-ship-it.github.io/a/",
+        link: "https://mohameds01344-ship-it.github.io/pro2/",
 
         label: "FRESH FROM THE OVEN",
 
